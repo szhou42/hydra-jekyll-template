@@ -6,19 +6,15 @@
   - name: About
     link: /about/
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
-    new_window: true
-    social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/szhou4222
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://www.youtube.com/@helloworld7313/videos
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
+  - name: Facebook
+    link: #
+    new_window: true
+    social_icon: Facebook
