@@ -1,17 +1,15 @@
 ---
-title: About
+title: Our team
 description: >-
-## What is Notes.ai
-  Notes.ai is a mac app that helps you transcribe your virtual meeting to text of various languages, into your favorite notes taking app Notion! What’s more? You can setup Notes.ai to transcribe all your google calendar events auto-magically!
-  Email: notesaibeta@gmail.com
+  We've built an amazing, fantastic team of developers, marketers, designers and
+  sales people.
 ---
 
 <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
 <ul class="staff">
 	{% for person in site.staff_members %}
 		<li>
-			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
-			<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter }}">{{ person.name }}</a></div>
+	@@ -14,4 +15,4 @@
 			<div class="position">{{ person.position }}</div>
 		</li>
 	{% endfor %}
