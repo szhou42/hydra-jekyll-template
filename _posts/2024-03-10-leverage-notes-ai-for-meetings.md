@@ -6,7 +6,8 @@ categories:
 author_staff_member: Meisheng
 ---
 A meeting is only as effective as the actionable takeaways your team derives from it. And hearing and articulating these action items can be difficult among the chaos. 
-But a new teammate might be able to fill this gap: Notes.ai, the AI-powered note-taker seamlessly integrated with Notion. To unleash your productivity, Download [Notes.ai](https://apps.apple.com/us/app/notes-ai/id6477414161) right now! 
+But a new teammate might be able to fill this gap: Notes.ai, the AI-powered note-taker seamlessly integrated with Notion. 
+To unleash your productivity, Download [Notes.ai](https://apps.apple.com/us/app/notes-ai/id6477414161) right now! 
 
 ## What does Notes.ai do?
 Notes.ai is a mac app that can record live meetings, ingest video files and youtube videos and transcribe them into your Notion workspace for easy organization and access. With one click on the magical Record button, it starts recording your meeting. When meeting is ended, Notes.ai uses state of the art AI models to transcribe the meeting into high quality transcription text.
