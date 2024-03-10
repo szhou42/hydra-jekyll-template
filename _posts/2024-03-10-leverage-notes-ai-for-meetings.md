@@ -30,5 +30,6 @@ No audio data ever leaves your device. Notes.ai processes your audio data right 
 
 ## How to download Notes.ai
 Currently, Notes.ai is available on Mac App Store, follow the link below to download
+
 [https://apps.apple.com/us/app/notes-ai/id6477414161](https://apps.apple.com/us/app/notes-ai/id6477414161)
 
