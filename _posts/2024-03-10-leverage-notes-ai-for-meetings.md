@@ -15,6 +15,7 @@ The trnascription text is then automatically exported into a page in your Notion
 Have old meeting videos that are too long to watch? no problem, drag and drop them into Notes.ai and it will have the transcription ready in your Notion workspace
 
 Feeing overwheled to watch an hour long youtube video? no problem, paste the youtube URL into Notes.ai as well and it will place the transcription in your Notion workspace as well.
+![Notes ai screenshot](https://github.com/szhou42/notesai/assets/12554767/b062612d-70bb-49a4-96e2-71cd78865749)
 
 ## 3 Benefits of Notes.ai
 
