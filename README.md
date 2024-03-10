@@ -2,6 +2,7 @@
 Check out the product now: https://szhou42.github.io/notesai/
 
 Transcribe Meetings into organized Notion pages.
+
 Record Meetings, Drop Video Files, Youtube URLs, Get transcription in Notion.
 
 ## Features
