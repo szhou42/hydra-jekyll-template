@@ -24,7 +24,7 @@ Feeing overwheled to watch an hour long youtube video? no problem, paste the you
 Inefficient tools and processes slow you down. Let Notes.ai take on repetitive tasks — like note-taking and oragnizing the notes — to free you up for more meaningful work. 
 
 ### 2. Better information retention
-Instead of wasting time memorizing facts, you can store information and focus on understanding the key concepts. And Notes.ai, you're creating a well-organized library of notes. Your AI-generated notes serve as a personal, accessible information database tailored to your needs.
+Instead of wasting time memorizing facts, you can store information and focus on understanding the key concepts. And with Notes.ai, you're creating a well-organized library of notes. Your AI-generated notes serve as a personal, accessible information database tailored to your needs.
 
 ### 3. Privacy and Security
 No audio data ever leaves your device. Notes.ai processes your audio data right on your device and send the transcription text to your Notion workspace.
