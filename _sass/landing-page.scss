@@ -10,6 +10,13 @@
 	}
 }
 
+.download-buttons-container {
+	display: flex;
+	gap: 20px; /* Adds space between the buttons */
+	justify-content: center;
+	margin-top: 20px;
+}
+
 .testimonial {
 	background: #f5f5f5;
 	margin: 0;
